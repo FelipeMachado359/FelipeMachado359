@@ -1,9 +1,10 @@
 <div><h1> May the Code be with you! 🚀✨</h1> </div>
 
 <div>
-  <img align="right" alt="img-vader" height="200px" width="" src="https://media.discordapp.net/attachments/780448940709117974/878389548659400834/tenor.gif">
+  <img align="right" alt="img-vader" height="185px" width="" src="https://media.discordapp.net/attachments/780448940709117974/878389548659400834/tenor.gif">
 </div>
 
+- 👋 Olá, sou o @FelipeMachado.
 - 🔭 Focado na Carreira profissional.
 - 🌱 Aprendendo sobre JavaScript.
 - 🤔 Procuro ajuda no aperfeiçoamento dos meus codígos.
