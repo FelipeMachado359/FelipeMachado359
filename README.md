@@ -1,7 +1,7 @@
 <div><h1> May the Code be with you! 🚀✨</h1> </div>
 
 
-  <img align="right" alt="img-vader" height="185px" width="374px" src="https://media.discordapp.net/attachments/780448940709117974/878389548659400834/tenor.gif">
+  <img align="right" alt="img-vader" height="170px" width="374px" src="https://media.discordapp.net/attachments/780448940709117974/878389548659400834/tenor.gif">
 
 - 👋 Olá, sou o @FelipeMachado.
 - 🔭 Focado na Carreira profissional.
