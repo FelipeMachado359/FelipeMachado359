@@ -10,11 +10,12 @@
 - 💬 Pergunte-me se já quebrei a procrastinação do dia.
 - 📫 Como chegar em mim: Me faça um tutorial.
 - ⚡ Fato curioso: Me chamam de Chico.
+<a href="https://www.whatsapp.com/channel/0029Va4908y9xVJZkNibM93o"><p>*- Entre no meu canal do WatsApp*</p></a>
 
 
-<a href="https://www.youtube.com/channel/UChU6uSDDOmtUmqd9jsXEPHA" target="_blank"><img align="right" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a  href="https://www.instagram.com/machado_359/" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/afxahuVemB" target="_blank"><img align="right" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://www.youtube.com/channel/UC3GsK3pK_jSkrQMo1iSG5Cg" target="_blank"><img align="right" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a  href="https://www.instagram.com/npcmachado/" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img align="right" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 <br>
 
@@ -23,7 +24,7 @@
   <a href="https://github.com/FelipeMachado359">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FelipeMachado359&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
     <br>
-  <img height="140em" width="357px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMachado359&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true"/>
+  <img height="200em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMachado359&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true"/>
  
    
 </div>
