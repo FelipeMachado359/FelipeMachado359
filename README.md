@@ -22,7 +22,7 @@
 
 <div style="display: flex">
   <a href="https://github.com/FelipeMachado359">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FelipeMachado359&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+ <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FelipeMachado359&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/> -->
     <br>
   <img height="200em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMachado359&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true"/>
  
